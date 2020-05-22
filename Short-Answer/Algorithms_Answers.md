@@ -25,4 +25,4 @@ I would do this until I find the 2 neighboring floors where one is "not broken" 
 
 That is the highest the egg will be able to go without breaking. 
 
-The runtime complexity of this algorithm would be O(nlogn) because of how it splits things in half over and over to find the solution. 
+The runtime complexity of this algorithm would be O(logn) because of how it splits things in half over and over to find the solution. 
